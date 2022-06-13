@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+
+}
+body{
+  justify-content: center;
+  background-image: url("https://image.noelshack.com/fichiers/2015/32/1438617991-wallhaven-91048.jpg");
+  height: "100%";
+  right: "100%";
+  background-size: 'cover';
+  background-repeat: 'no-repeat';
+  height: 'auto';
+}
+.App h1{
+  color:white;
+}
+.modal-bg{
+  background-color: rgba(233, 227, 230, 0);
+  border-radius: 5px;
+  margin-top: 10%;
+  display: flex;
+margin-left: 30%;
+width: 40%;
+height: 40%;
+}
+
+
